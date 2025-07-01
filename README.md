@@ -22,6 +22,20 @@ CoinCortex is an intelligent AI-driven trading assistant that helps traders anal
 - 📊 Advanced analytics dashboard
 
 
+## 🖼️ Visual Assets
+
+<img src="readme_assets/Cover.PNG" alt="Cover Image" width="700"/>
+<img src="readme_assets/Competitors_and_Differentiation_en.PNG" alt="Competitors EN" width="700"/>
+
+<details>
+<summary>Russian Version</summary>
+
+<img src="readme_assets/Competitors_and_Differentiation_ru.PNG" alt="Competitors RU" width="700"/>
+
+</details>
+
+---
+
 ## 🧠 How It Works
 
 <img src="architecture/scheme_en.png" alt="CoinCortex_Architecture_EN" width="700"/>
@@ -35,19 +49,7 @@ CoinCortex is an intelligent AI-driven trading assistant that helps traders anal
 
 ---
 
-## 🖼️ Visual Assets
-
-<img src="readme_assets/Cover.PNG" alt="Cover Image" width="700"/>
-<img src="readme_assets/Competitors_and_Differentiation_en.PNG" alt="Competitors EN" width="700"/>
-
-<details>
-<summary>Russian Version</summary>
-
-<img src="readme_assets/Competitors_and_Differentiation_ru.PNG" alt="Competitors RU" width="700"/>
-
-</details>
-
-## 📊 Screenshots
+## 📱 Screenshots
 
 <img src="screenshots/En.JPG" alt="Telegram Screenshot" width="400"/>
 
