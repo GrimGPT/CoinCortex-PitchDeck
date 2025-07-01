@@ -39,8 +39,13 @@ CoinCortex is an intelligent AI-driven trading assistant that helps traders anal
 
 <img src="readme_assets/Cover.PNG" alt="Cover Image" width="800"/>
 <img src="readme_assets/Competitors_and_Differentiation_en.PNG" alt="Competitors EN" width="800"/>
+
+<details>
+<summary>Russian Version</summary>
+
 <img src="readme_assets/Competitors_and_Differentiation_ru.PNG" alt="Competitors RU" width="800"/>
 
+</details>
 
 ## 📬 Contact
 - Email: coincortex.bot@gmail.com
