@@ -60,5 +60,14 @@ CoinCortex is an intelligent AI-driven trading assistant that helps traders anal
 
 </details>
 
+---
+
+## 📄 Download the Pitch Deck
+
+- [🇬🇧 English version](https://github.com/GrimGPT/CoinCortex-PitchDeck/blob/main/docs/pitch_deck_CoinCortex_en.pdf)
+- [🇷🇺 Russian version](https://github.com/GrimGPT/CoinCortex-PitchDeck/blob/main/docs/pitch_deck_CoinCortex_ru.pdf)
+
+---
+
 ## 📬 Contact
 - Email: coincortex.bot@gmail.com
